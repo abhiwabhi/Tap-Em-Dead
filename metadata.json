@@ -1,0 +1,6 @@
+{
+  "name": "Tap Shooter",
+  "description": "A fast-paced, hand-drawn 2D arcade tap-to-kill survival shooter game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
